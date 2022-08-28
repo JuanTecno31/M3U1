@@ -165,7 +165,3 @@ nav ul li a:hover {
 .card-body {
     background-color: rgb(6, 64, 65);
 }
-
-.toast{
-    display: flex;
-}
